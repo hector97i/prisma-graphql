@@ -1,0 +1,19 @@
+{
+  "name": "prisma-graphql",
+  "version": "1.0.0",
+  "description": "Tutorial for Prisma 2 an GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hector97i/prisma-graphql.git"
+  },
+  "author": "hector97i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hector97i/prisma-graphql/issues"
+  },
+  "homepage": "https://github.com/hector97i/prisma-graphql#readme"
+}
